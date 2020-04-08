@@ -1,13 +1,13 @@
 {
   "name": "ember-cli-global-env",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": "https://github.com/houfeng0923/ember-cli-global-env",
   "license": "MIT",
-  "author": "",
+  "author": "houfeng0923@gmail.com",
   "directories": {
     "doc": "doc",
     "test": "tests"

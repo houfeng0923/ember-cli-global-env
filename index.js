@@ -17,7 +17,7 @@ module.exports = {
       helperName: 'env',
       importPath: '@global/env',
     },this.app.options['global-env']);
-    globalEnv = this.createEnv(this.app.env, this.app.project);
+    const globalEnv = this.createEnv(this.app.env, this.app.project);
 
     this.addBabelPluginIfNotPresent(
       'babel-plugin-replace-global-env',
