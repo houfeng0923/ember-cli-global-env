@@ -58,7 +58,7 @@ let app = new EmberApp({
 **Available Options:**
 
 - `helperName`: default is **env**, a helper for access global env in template
-- `importPath`: default is **@global/env**, so you can import global env form this path
+- `importPath`: default is **@global/env**, so you can import global env from this path
 
 
 Example
