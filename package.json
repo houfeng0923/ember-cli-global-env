@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-global-env",
   "version": "0.0.5",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "support global env const in js and hbs for ember app",
   "keywords": [
     "ember-addon"
   ],
