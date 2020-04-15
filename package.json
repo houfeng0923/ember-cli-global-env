@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-global-env",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "support global env const in js and hbs for ember app",
   "keywords": [
     "ember-addon"
@@ -17,7 +17,7 @@
     "lint:hbs": "ember-template-lint .",
     "lint:js": "eslint .",
     "start": "ember serve",
-    "test": "ember test",
+    "test": "APP_BRAND=cfx ember test",
     "test:all": "ember try:each"
   },
   "dependencies": {
