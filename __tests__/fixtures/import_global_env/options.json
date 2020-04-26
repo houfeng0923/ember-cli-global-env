@@ -1,0 +1,8 @@
+{
+  "env": {
+    "@global/env": {
+      "CFX": true,
+      "NAME": "foo"
+    }
+  }
+}
