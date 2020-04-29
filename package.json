@@ -73,7 +73,8 @@
   },
   "jest": {
     "testPathIgnorePatterns": [
-      "fixtures"
+      "fixtures",
+      ".node_modules.ember-try"
     ]
   }
 }
