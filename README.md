@@ -40,7 +40,7 @@ otherwise, your can define extra const in `config/global-env.js`.
 module.exports = function (environment) {
   const flags = {
     CFX: process.env['APP_BRAND'] === 'cfx',
-    Token: 'xxxxx'
+    Token: 'xxxxxx'
   };
 
   return flags;
